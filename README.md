@@ -1,4 +1,4 @@
-# zonal_ufls
+# Design of a Zonal-UFLS scheme in IEEE 39-bus network
 
 
 The objective of this project is to implement a Under-Frequency Load Shedding(UFLS)scheme where the whole network wouldbe divided into multiple zones.
